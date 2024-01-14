@@ -1,0 +1,14 @@
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.AssemblyInfoInputs.cache
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.AssemblyInfo.cs
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.csproj.CoreCompileInputs.cache
+D:\code\public\parallelism_sample\bin\Debug\net8.0\parallelism_sample.exe
+D:\code\public\parallelism_sample\bin\Debug\net8.0\parallelism_sample.deps.json
+D:\code\public\parallelism_sample\bin\Debug\net8.0\parallelism_sample.runtimeconfig.json
+D:\code\public\parallelism_sample\bin\Debug\net8.0\parallelism_sample.dll
+D:\code\public\parallelism_sample\bin\Debug\net8.0\parallelism_sample.pdb
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.dll
+D:\code\public\parallelism_sample\obj\Debug\net8.0\refint\parallelism_sample.dll
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.pdb
+D:\code\public\parallelism_sample\obj\Debug\net8.0\parallelism_sample.genruntimeconfig.cache
+D:\code\public\parallelism_sample\obj\Debug\net8.0\ref\parallelism_sample.dll
